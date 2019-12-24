@@ -32,10 +32,10 @@ INSERT INTO projects (title, category, funding_goal, start_date, end_date)
 INSERT INTO projects (title, category, funding_goal, start_date, end_date)
   VALUES ("How to Code", "Books", 4500, "03/16/2018", "01/01/2019");
 INSERT INTO projects (title, category, funding_goal, start_date, end_date)
-  VALUES ("Uplift", "Art", 2000, "06/01/2018", "09/01/2018");
+  VALUES ("Ebo", "Devices", 1500, "01/01/2020", "04/01/2020");
 INSERT INTO projects (title, category, funding_goal, start_date, end_date)
-  VALUES ("Uplift", "Art", 2000, "06/01/2018", "09/01/2018");
+  VALUES ("Bravado", "Songs", 15000, "07/01/2017", "12/02/2017");
 INSERT INTO projects (title, category, funding_goal, start_date, end_date)
-  VALUES ("Uplift", "Art", 2000, "06/01/2018", "09/01/2018");
+  VALUES ("Wind Chimes", "Arts", 6200, "05/25/2018", "11/12/2018");
 INSERT INTO projects (title, category, funding_goal, start_date, end_date)
-  VALUES ("Uplift", "Art", 2000, "06/01/2018", "09/01/2018");
+  VALUES ("Creatures", "Games", 10000, "07/11/2019", "07/11/2020");
