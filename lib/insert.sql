@@ -18,3 +18,24 @@ INSERT INTO users (name, age) VALUES ("Loida", 52);
 INSERT INTO users (name, age) VALUES ("Aiden", 18);
 INSERT INTO users (name, age) VALUES ("Claire", 45);
 INSERT INTO users (name, age) VALUES ("Phil", 44);
+
+INSERT INTO projects (title, category, funding_goal, start_date, end_date)
+  VALUES ("Uplift", "Arts", 2000, "06/01/2018", "09/01/2018");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date)
+  VALUES ("Coven", "Books", 5000, "10/10/2018", "10/10/2019");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date)
+  VALUES ("Orba", "Games", 5500, "01/01/2020", "06/01/2020");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date)
+  VALUES ("Go Dice", "Games", 4000, "09/16/2019", "12/16/2019");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date)
+  VALUES ("Lovely", "Arts", 50000, "07/27/2013", "07/27/2018");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date)
+  VALUES ("How to Code", "Books", 4500, "03/16/2018", "01/01/2019");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date)
+  VALUES ("Uplift", "Art", 2000, "06/01/2018", "09/01/2018");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date)
+  VALUES ("Uplift", "Art", 2000, "06/01/2018", "09/01/2018");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date)
+  VALUES ("Uplift", "Art", 2000, "06/01/2018", "09/01/2018");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date)
+  VALUES ("Uplift", "Art", 2000, "06/01/2018", "09/01/2018");
